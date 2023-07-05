@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Test.unity
     guid: e8b7af6032547e041b93c1dd6789b98f
+  - enabled: 0
+    path: Assets/Scenes/CheckNTT.unity
+    guid: 8957292dfa5b6264a9b1ceae34f94d00
+  - enabled: 1
+    path: Assets/Scenes/PreTestNTT.unity
+    guid: a13040e36da1ce643ac406e2c02f5413
   m_configObjects: {}

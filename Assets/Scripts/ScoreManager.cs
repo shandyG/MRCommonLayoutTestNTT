@@ -53,10 +53,10 @@ public class ScoreManager : MonoBehaviour
             curPosList.Add(diff.ToString("F4"));
 
             //ToString F4 で小数点桁数変更
-            Debug.Log(obj.name + " : " + diff.ToString("F4") + dt);
+            //Debug.Log(obj.name + " : " + diff.ToString("F4") + dt);
         }
 
-        StartCoroutine(PostData(curPosList));
+        //StartCoroutine(PostData(curPosList));
         
     }
 
